@@ -1,0 +1,11 @@
+C:\Users\Pairs\RiderProjects\TrafikWinBot\TrafikWinBot\bin\Debug\TrafikWinBot.exe
+C:\Users\Pairs\RiderProjects\TrafikWinBot\TrafikWinBot\bin\Debug\TrafikWinBot.pdb
+C:\Users\Pairs\RiderProjects\TrafikWinBot\TrafikWinBot\bin\Debug\WebDriver.dll
+C:\Users\Pairs\RiderProjects\TrafikWinBot\TrafikWinBot\bin\Debug\WebDriver.Support.dll
+C:\Users\Pairs\RiderProjects\TrafikWinBot\TrafikWinBot\bin\Debug\WebDriver.xml
+C:\Users\Pairs\RiderProjects\TrafikWinBot\TrafikWinBot\bin\Debug\WebDriver.Support.xml
+C:\Users\Pairs\RiderProjects\TrafikWinBot\TrafikWinBot\obj\Debug\TrafikWinBot.csprojAssemblyReference.cache
+C:\Users\Pairs\RiderProjects\TrafikWinBot\TrafikWinBot\obj\Debug\TrafikWinBot.csproj.CoreCompileInputs.cache
+C:\Users\Pairs\RiderProjects\TrafikWinBot\TrafikWinBot\obj\Debug\TrafikWinBot.csproj.CopyComplete
+C:\Users\Pairs\RiderProjects\TrafikWinBot\TrafikWinBot\obj\Debug\TrafikWinBot.exe
+C:\Users\Pairs\RiderProjects\TrafikWinBot\TrafikWinBot\obj\Debug\TrafikWinBot.pdb
